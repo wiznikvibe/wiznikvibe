@@ -3,8 +3,8 @@
 
 
 
-### 🔭 I’m currently working on Python Development and OOPs Framework
-### 🌱 I’m currently learning MAchine Learning more specifically Recommendation Engine 
+### 🔭 I’m currently working Machine Learning more specifically Recommendation Engine
+### 🌱 I’m currently studying Python Development and OOPs Framework learning  
 ### 📫 How to reach me: nikhilshetty00@gmail.com
 ### ⚡ Fun fact: I LOVE to Collect and Implement KNOWLEDGE   
 
