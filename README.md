@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there Nikhil here....  👋
 
 
 
-Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on Python Development and OOPs Framework
 ### 🌱 I’m currently learning MAchine Learning more specifically Recommendation Engine 
