@@ -1,5 +1,5 @@
 # 💫 About Me:
-##👋 Hi there Nikhil here.  <br>🔭 Currently UPSKILLING<br>⚡ Fun fact: Gaining Knowledge never stops!<br>📫 How to reach me: nikhilshetty00@gmail.com 
+## 👋 Hi there Nikhil here.  <br>🔭 Currently UPSKILLING<br>⚡ Fun fact: Gaining Knowledge never stops!<br>📫 How to reach me: nikhilshetty00@gmail.com 
 
 
 ## 🌐 Socials:
